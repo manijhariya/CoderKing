@@ -1,0 +1,8 @@
+File -> 10
+Edit -> 08
+View -> 08
+Project -> 04
+Build -> 05
+Tools -> 04
+Settings -> 05
+Help  -> 06
